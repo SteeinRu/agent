@@ -1,5 +1,6 @@
-.idea
-example/
-vendor/
-version.txt
-composer.json
+/.idea
+/.gitignore
+/example/
+/vendor/
+/version.txt
+/composer.json
