@@ -16,7 +16,8 @@ $agent->setHttpHeaders($headers);
 All of the original **Mobile Detect** methods are still available, check out some original examples at https://github.com/serbanghita/Mobile-Detect/wiki/Code-examples
 
 
-### Check for a certain property in the user agent.
+### Is
+Check for a certain property in the user agent.
 
 ```php
 $agent->is('Windows');
@@ -41,6 +42,8 @@ Check for mobile device:
 $agent->isMobile();
 $agent->isTablet();
 ```
+
+
 ### Additional functions
 
 ## Accept languages
