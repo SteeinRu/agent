@@ -1,0 +1,7 @@
+.idea/
+example/
+vendor/
+.steein/
+version.txt
+composer.json
+composer.lock
