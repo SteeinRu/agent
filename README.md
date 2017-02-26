@@ -3,7 +3,7 @@
 PHP module that determines the browser, platform, language (...) built on the basis of Mobiledetect.
 
 
-## Basic Usage
+## Based on possible
 
 ```php
 $agent = new \SteeinAgent\Agent();
