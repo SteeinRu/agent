@@ -43,6 +43,12 @@ $agent->isMobile();
 $agent->isTablet();
 ```
 
+### Match user agent
+Search the user agent with a regular expression:
+
+```php
+$agent->match('regexp');
+```
 
 ## Additional functions
 
