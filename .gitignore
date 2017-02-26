@@ -4,3 +4,4 @@
 /vendor/
 /version.txt
 /composer.json
+composer.lock
