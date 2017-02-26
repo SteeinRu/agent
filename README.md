@@ -44,9 +44,9 @@ $agent->isTablet();
 ```
 
 
-### Additional functions
+## Additional functions
 
-## Accept languages
+### Accept languages
 
 Get the browser's accept languages. Example:
 
