@@ -1,4 +1,4 @@
-# PHP module desktop/mobile user agent on the basis of Mobiledetect
+# Module Agent
 
 ### PHP module that determines the browser, platform, language (...) built on the basis of Mobiledetect.
 
