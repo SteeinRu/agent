@@ -1,7 +1,4 @@
 /.idea
 /.gitignore
-/example/
-/vendor/
-/version.txt
-/composer.json
 composer.lock
+vendor/
